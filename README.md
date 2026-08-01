@@ -1,2 +1,2 @@
 # yagami-s--demo
-first repository 
+first git repository 
